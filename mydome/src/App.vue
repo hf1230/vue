@@ -1,3 +1,4 @@
+<script src="route.js"></script>
 <template>
   <div id="app">
     <up class='up'></up>
