@@ -1,0 +1,147 @@
+{
+  "other": {
+    "refresh": "A",
+    "miss": "43"
+  },
+  "list": [
+    {
+      "addata": null,
+      "category": "新闻",
+      "digest": "设定最高接近5万元的补习费极不合理。直接使用价格杠杆过滤学生",
+      "docid": "CM7T1QSS0001875P",
+      "imgsrc3gtype": 1,
+      "link": "http://3g.163.com/touch/specail_view.html?sid=S1495764785508#",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/a265645976004471a346a0a2a31be80720170606071449.png",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 07:15:30",
+      "source": "中国青年报",
+      "tag": "专题",
+      "tcount": 76776,
+      "title": "复读毛坦厂先交4万 媒体:超级中学正拒绝平民子弟",
+      "type": "special",
+      "typeid": "S1495764785508#"
+    },
+    {
+      "addata": null,
+      "category": "新闻",
+      "digest": "【蒂勒森：不允许中国用经济实力摆平一切】当地时间6月5日，美",
+      "docid": "CM8LA2NT000187R2",
+      "imgsrc3gtype": 1,
+      "link": "http://3g.163.com/touch/article.html?docid=CM8LA2NT000187R2",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/8c843bdede7c400c97cfd3123c22945720170606141235.png",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 14:19:26",
+      "source": "环球时报-环球网",
+      "tag": "",
+      "tcount": 185,
+      "title": "美国务卿蒂勒森:不允许中国用经济实力摆平一切",
+      "type": "doc",
+      "typeid": ""
+    },
+    {
+      "addata": null,
+      "category": "娱乐",
+      "digest": "印小天与哈琳娜网易娱乐6月6日报道6月6日，据全明星探爆料，",
+      "docid": "CM8JJJ2600038FO9",
+      "imgsrc3gtype": 1,
+      "link": "http://3g.163.com/touch/article.html?docid=CM8JJJ2600038FO9",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/b1f4816112004f509180dc311b671f8920170606134931.png",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 13:49:41",
+      "source": "网易娱乐",
+      "tag": "",
+      "tcount": 1360,
+      "title": "印小天被曝遭妻子骗婚 法院立案争夺孩子抚养权",
+      "type": "doc",
+      "typeid": ""
+    },
+    {
+      "addata": null,
+      "category": "新闻",
+      "digest": "6月5日，一则关于“心寒！成都一高中毕业照：领导老师是P上去",
+      "docid": "CM82GB690001875P",
+      "imgsrc3gtype": 1,
+      "link": "http://3g.163.com/touch/article.html?docid=CM82GB690001875P",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/6b0680c4111f4bcfb2231ed1aac3f1a820170606084940.png",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 08:50:48",
+      "source": "未来网",
+      "tag": "",
+      "tcount": 50424,
+      "title": "这也作假？成都一高中毕业照领导老师是P上去的",
+      "type": "doc",
+      "typeid": ""
+    },
+    {
+      "addata": null,
+      "category": "本地",
+      "digest": "明天，普通高考将拉开序幕，江西省34万余名考生将走进高考考场",
+      "docid": "CM85SMI304168ED3",
+      "imgsrc3gtype": 3,
+      "link": "http://3g.163.com/touch/article.html?docid=CM85SMI304168ED3&rec=i.loc",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/f837e8a76f97468dbea42336352da5b420170606095245.jpeg",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 09:49:59",
+      "source": "中国江西网",
+      "tag": "",
+      "tcount": 0,
+      "title": "明日开考 江西34万余名考生将进考场 这些请注意",
+      "type": "doc",
+      "typeid": ""
+    },
+    {
+      "addata": null,
+      "category": "新闻",
+      "digest": "诺贝尔文学奖评奖机构瑞典文学院5日在其官方网站宣布，美国歌手",
+      "docid": "CM8H7FTC000187V9",
+      "imgsrc3gtype": 1,
+      "link": "http://3g.163.com/touch/article.html?docid=CM8H7FTC000187V9",
+      "picInfo": [
+        {
+          "height": null,
+          "ref": null,
+          "url": "http://cms-bucket.nosdn.127.net/bb989d3b3982402ca60b16b890e03da620170606142240.png",
+          "width": null
+        }
+      ],
+      "ptime": "2017-06-06 13:03:00",
+      "source": "环球时报-环球网",
+      "tag": "",
+      "tcount": 9,
+      "title": "鲍勃迪伦诺奖演讲:不明白我的歌和文学奖有何关系",
+      "type": "doc",
+      "typeid": ""
+    }
+  ],
+  "code": 200
+}

@@ -1,0 +1,651 @@
+
+{
+
+    "hits": [
+      {
+        "remark": "",
+        "sproductid": "3875c7ba-a1e3-493e-85ae-3974c4d03a87"
+      },
+      {
+        "remark": "",
+        "sproductid": "d203f4c1-1b30-401f-a59e-020387bd6940"
+      },
+      {
+        "remark": "",
+        "sproductid": "8ce9f552-431a-47d8-9d6e-33b467f7ff6e"
+      },
+      {
+        "remark": "",
+        "sproductid": "4b6b88d5-9fac-4c8c-af00-917612b209b0"
+      },
+      {
+        "remark": "",
+        "sproductid": "dbfe30ad-4e9d-47a9-84bd-f8386b0917a8"
+      },
+      {
+        "remark": "",
+        "sproductid": "71f4a695-8118-41c6-83b4-ec6bacdadf0d"
+      },
+      {
+        "remark": "",
+        "sproductid": "cab31cce-83fc-4c78-813f-76cb0ab0e2a0"
+      },
+      {
+        "remark": "",
+        "sproductid": "89aac26b-4b7f-4b99-9167-551321994673"
+      },
+      {
+        "remark": "",
+        "sproductid": "b3452340-099d-4945-94f1-4965b6cd714f"
+      },
+      {
+        "remark": "",
+        "sproductid": "27676576-0684-442e-83f0-23aa8828df2e"
+      },
+      {
+        "remark": "",
+        "sproductid": "504478ba-b107-4db9-bc8c-b998bf9b22cb"
+      },
+      {
+        "remark": "",
+        "sproductid": "af4b0524-1643-404e-9b36-cb1b600a754b"
+      },
+      {
+        "remark": "",
+        "sproductid": "98fa5eb4-7db6-4b6e-82fb-a27cc198cd86"
+      },
+      {
+        "remark": "",
+        "sproductid": "32bce8cf-a09c-462f-9f31-f54f265e1dd9"
+      },
+      {
+        "remark": "",
+        "sproductid": "8684b246-0f21-4e47-af62-6db279e8e1e8"
+      },
+      {
+        "remark": "",
+        "sproductid": "12157034-8f5e-4083-aa0f-3fa24d2b4b58"
+      },
+      {
+        "remark": "",
+        "sproductid": "8b9b0431-343f-4ca4-bed9-5329aa05ec08"
+      },
+      {
+        "remark": "",
+        "sproductid": "75d8c0f9-fd2c-4a77-b847-ad1412135c49"
+      },
+      {
+        "remark": "",
+        "sproductid": "6154e7f6-32df-48fe-883c-bf45f2b45e17"
+      },
+      {
+        "remark": "",
+        "sproductid": "eae110ce-0dec-473c-968f-b70b4ac653f9"
+      }
+    ],
+    "took": 69,
+    "total": 3428,
+    "searchInfo": {
+      "algo": ""
+    },
+    "hostip": "10.11.35.53",
+    "requestid": "e28f40b0-47f8-11e7-be03-53a66f420e02",
+    "downgrade": false,
+    "timeout": false,
+    "status": "OK",
+    "algorithm": "",
+  "likeProductInfo": [
+    {
+      "id": "3875c7ba-a1e3-493e-85ae-3974c4d03a87",
+      "name": "泰国VOODOO蛇毒睡眠免洗面膜 抗皱美白保湿 抗痘淡斑滋养 30.5g",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 125,
+      "stock": 1806,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M09/59/6F/CgvUBViu8zqALC2nAAOCi4pO6p8508_80_107_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 17181105,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M07/A8/E2/CgvUBFgMf8-AX1zeAABREj2iBV0941_1_1_s.jpg",
+        "name": "泰国日品坊",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "泰国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Thailand.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.8",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "d203f4c1-1b30-401f-a59e-020387bd6940",
+      "name": "【大牌限时折扣】DG杜嘉班纳女士手提单肩包",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 3680,
+      "stock": 2,
+      "stockDesc": "仅剩2件",
+      "pic": "http://pic1.ymatou.com/G02/shangou/M03/71/67/CgvUBFkxV2OAGLkEAAKvm82eVx0557_80_107_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 6522246,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M05/93/36/CgvUA1i4MxSASdy6AAD_bNjpMyo415_1_1_s.jpg",
+        "name": "英国比斯特奢侈品",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "英国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/England.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.4",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "8ce9f552-431a-47d8-9d6e-33b467f7ff6e",
+      "name": "￼ eaoron澳洲进口水光针面膜光速急速美白淡斑保湿补水 ",
+      "state": 0,
+      "deliveryType": 3,
+      "price": 179,
+      "stock": 87,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M02/EF/A2/CgvUBVkGq3OABt4zAAMYcYhuQxQ532_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 3,
+      "sellerInfo": {
+        "id": 536618,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M08/12/94/CgvUBFbsi6qAJOLLAABPAVMqlms233_s.jpg",
+        "name": "Leon1982",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "澳大利亚",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Australia.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.8",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "4b6b88d5-9fac-4c8c-af00-917612b209b0",
+      "name": "Coach 女包 蔻驰 新款戴妃包 女士单肩包 手提包 早春新品。",
+      "state": 0,
+      "deliveryType": 3,
+      "price": 780,
+      "stock": 48,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M04/26/C8/CgvUBVjLCzOATuC5AAQi2txkQsc019_80_107_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 612136,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M09/60/56/CgvUA1iBr4KAK7UiAABfWouieYA888_1_1_s.jpg",
+        "name": "Mini美淘",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "美国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/America.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.9",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "dbfe30ad-4e9d-47a9-84bd-f8386b0917a8",
+      "name": "法国Armani阿玛尼黑管唇釉500/501/502/503/505/402/302",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 275,
+      "stock": 38,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M06/A6/DF/CgvUBVg1BcCAM31yAAFpUCr5rUw850_3_4_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 17219477,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M06/60/71/CgvUBFf_ksyAAdxyAABernND5do820_1_1_s.jpg",
+        "name": "巴黎小镇",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "法国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/France.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "71f4a695-8118-41c6-83b4-ec6bacdadf0d",
+      "name": "限时抢 韩国amore pacific爱茉莉护发精油 发油 卷发免洗修复发质",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 43,
+      "stock": 1819,
+      "pic": "http://pic1.ymatou.com/G02/upload/product/original/M09/64/4C/CgvUA1eKHJ-AI86FAAC_vE7FEbU20_n_w_lb.jpeg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 11539183,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M03/60/DE/CgvUA1iBwsWAE-sJAABbZoj_tUM363_1_1_s.jpg",
+        "name": "ELLUI_SEOUL",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "韩国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Korea.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "cab31cce-83fc-4c78-813f-76cb0ab0e2a0",
+      "name": "爱茉莉发油 柔顺免洗护发精油滋养护发修复受损发质不油腻",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 49,
+      "stock": 4718,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M04/AF/2F/CgvUA1iVgHyAN3gjAADSojl0R9s354_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 16658317,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M0B/B5/BD/CgvUA1iWwCKAB1DdAAA92tvcnvI113_1_1_s.jpg",
+        "name": "伊人靓妆",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "韩国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Korea.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "89aac26b-4b7f-4b99-9167-551321994673",
+      "name": "索丹博士Em-eukal德国进口儿童樱桃润喉糖75g",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 46,
+      "stock": 4991,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M03/95/6B/CgvUBVi31_yAHNF1AAIvd0tIt3Y896_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 1522753,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/1522753_2b55e8bef1d14ed6b12ea1d1ac1755e8_s.png",
+        "name": "洋洋淘",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "丹麦",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Denmark.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.6",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "b3452340-099d-4945-94f1-4965b6cd714f",
+      "name": "保税 费列罗Raffaello雪莎椰蓉扁桃仁酥巧克力球150g*2 17.10.12",
+      "state": 0,
+      "deliveryType": 4,
+      "price": 78,
+      "stock": 2,
+      "stockDesc": "仅剩2件",
+      "pic": "http://pic1.ymatou.com/G02/shangou/M09/CD/E3/CgvUBFe62O2ADpozAADj9k0zoks224_n_w_lb.jpg",
+      "productType": 2,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 15880642,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M04/9F/CE/CgvUBFg0BSeAV-cPAAAUFVRPp-8599_1_1_s.jpg",
+        "name": "维也纳时尚在线",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "奥地利",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Austria.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.5",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "27676576-0684-442e-83f0-23aa8828df2e",
+      "name": "【闪亮一夏】英国 Boots No7 瞬间补水保湿冰淇淋面膜100ML",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 104,
+      "stock": 976,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M07/B6/10/CgvUA1i9Rq-AQcraAAMAxo-EvTM627_26_25_n_w_lb.png",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 1522753,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/1522753_2b55e8bef1d14ed6b12ea1d1ac1755e8_s.png",
+        "name": "洋洋淘",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "丹麦",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Denmark.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.6",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "504478ba-b107-4db9-bc8c-b998bf9b22cb",
+      "name": "秒杀mk小猪包Michael kors Chloe小猪包尺寸约19*15捡漏",
+      "state": 0,
+      "deliveryType": 3,
+      "price": 699,
+      "stock": 7,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M0B/AF/48/CgvUBVgNqVGAPZqZAAIHajN2fNw157_101_100_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 535089,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/535089_59b5710107ec4058b2d6ca6426e4330e_s.jpg",
+        "name": "维尼熊",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "美国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/America.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.9",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "af4b0524-1643-404e-9b36-cb1b600a754b",
+      "name": "Coach波士顿 蔻驰女包枕头包单肩手提斜挎包母亲节蝴蝶限量。",
+      "state": 0,
+      "deliveryType": 3,
+      "price": 680,
+      "stock": 102,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M0A/61/6A/CgvUBVkvg7GAHJZ9AALabOigqnY752_80_107_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 612136,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M09/60/56/CgvUA1iBr4KAK7UiAABfWouieYA888_1_1_s.jpg",
+        "name": "Mini美淘",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "美国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/America.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.9",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "98fa5eb4-7db6-4b6e-82fb-a27cc198cd86",
+      "name": "BOOTS NO7冰激凌冰淇淋面膜100ML瞬间赋活 美白保湿 熬夜急救",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 118,
+      "stock": 440,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M07/4B/CE/CgvUBVitVW-AZGjSAAHA4Ezt_2I059_4_3_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 1205650,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/1205650_076a7de3a7f84bc98c83f4204a497b9d_s.png",
+        "name": "慕尼黑啤酒",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "德国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Germany.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.8",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "32bce8cf-a09c-462f-9f31-f54f265e1dd9",
+      "name": "法国Armani阿玛尼小胖丁唇釉400/507/503/506/600/403/504 3.9ml",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 285,
+      "stock": 63,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M00/3C/FD/CgvUA1glX22AWQ8SAAKk_R9Yyds818_800_1067_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 17219477,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M06/60/71/CgvUBFf_ksyAAdxyAABernND5do820_1_1_s.jpg",
+        "name": "巴黎小镇",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "法国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/France.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "8684b246-0f21-4e47-af62-6db279e8e1e8",
+      "name": "法国NARS春季限量版口红 Mona/Shirley /Jane/Oliva",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 238,
+      "stock": 16,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M05/EC/C6/CgvUBFkf__KAKx26AAGUNhNfXzs008_9_16_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 17219477,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M06/60/71/CgvUBFf_ksyAAdxyAABernND5do820_1_1_s.jpg",
+        "name": "巴黎小镇",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "法国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/France.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "12157034-8f5e-4083-aa0f-3fa24d2b4b58",
+      "name": "lg 润膏 精华洗发露400ml 无硅油洗发水+护发素 2017新款",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 89,
+      "stock": 1799,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M05/52/82/CgvUA1kuetKAO6PdAAStM-X82cs836_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "promotionType": 1,
+      "sellerInfo": {
+        "id": 6471723,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M02/60/69/CgvUA1iBse2AdaT9AAA1Wvlv3X4198_1_1_s.jpg",
+        "name": "韩国途米免税店",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "韩国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Korea.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "8b9b0431-343f-4ca4-bed9-5329aa05ec08",
+      "name": "THE BODY SHOP美体小铺生姜洗发水去屑止痒防脱400ML（大）",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 92,
+      "stock": 31,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M08/C3/5B/CgvUBViYLwCAIcqiAAbLK6ytpMI057_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 1205650,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/1205650_076a7de3a7f84bc98c83f4204a497b9d_s.png",
+        "name": "慕尼黑啤酒",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "德国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Germany.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.8",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "75d8c0f9-fd2c-4a77-b847-ad1412135c49",
+      "name": "GODIVA歌帝梵精选巧克力5颗心形礼盒",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 70,
+      "stock": 70,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M02/C3/45/CgvUBVi-RBqAFODVAAHjJ0ins7U256_1_1_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 4904283,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M00/29/4E/CgvUBFZShV-AUJKIAABJca5cuX0252_s.jpg",
+        "name": "佳敏东京",
+        "sellerLevel": "Top",
+        "level": 1,
+        "countryName": "日本",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Japan.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "6154e7f6-32df-48fe-883c-bf45f2b45e17",
+      "name": "Maltesers澳洲麦丽素144g（内含10小包）",
+      "state": 0,
+      "deliveryType": 3,
+      "price": 48,
+      "stock": 12,
+      "pic": "http://pic1.ymatou.com/G02/shangou/M0A/15/22/CgvUBFjqYouAVlGpAAKq8LSabdg480_1_1_n_w_lb.jpg",
+      "productType": 2,
+      "tariffType": 1,
+      "promotionType": 3,
+      "sellerInfo": {
+        "id": 536618,
+        "avatarUrl": "http://pic1.ymatou.com/G02/M08/12/94/CgvUBFbsi6qAJOLLAABPAVMqlms233_s.jpg",
+        "name": "Leon1982",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "澳大利亚",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/Australia.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.8",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    },
+    {
+      "id": "eae110ce-0dec-473c-968f-b70b4ac653f9",
+      "name": "Gucci古琦樱花粉贝壳包",
+      "state": 0,
+      "deliveryType": 7,
+      "price": 2980,
+      "stock": 1,
+      "stockDesc": "仅剩1件",
+      "pic": "http://pic1.ymatou.com/G02/shangou/M09/4A/E9/CgvUBFksgCeAFkhYAALN-d6F6pc499_80_107_n_w_lb.jpg",
+      "productType": 1,
+      "tariffType": 3,
+      "sellerInfo": {
+        "id": 2244788,
+        "avatarUrl": "http://pic1.ymatou.com/p5img/upload/userlogo/small/2244788_35599d2e9559435a9abc23eba935c92c_s.png",
+        "name": "乐乐英国奢侈品",
+        "sellerLevel": "Pro",
+        "level": 2,
+        "countryName": "英国",
+        "countryIconUrl": "http://img.ymatou.com/app/flag/circle/England.png",
+        "sellerDSR": {
+          "DSRPoint": {
+            "point": "4.7",
+            "type": 1
+          }
+        }
+      },
+      "cornerIcon": ""
+    }
+  ]
+}

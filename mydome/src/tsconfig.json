@@ -1,0 +1,1487 @@
+{
+  "state": 0,
+  "message": "",
+  "request_id": "0ab6004714963079694563544e",
+  "data": [
+    {
+      "song_id": 1795779511,
+      "song_name": "志明与春娇 (国语版)",
+      "singers": "五月天",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795766385,
+      "song_name": "我喜欢上你时的内心活动",
+      "singers": "陈绮贞",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795677023,
+      "song_name": "凡人歌",
+      "singers": "五月天;萧敬腾",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795689190,
+      "song_name": "漂洋过海来看你",
+      "singers": "朱亚文;王丽坤",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795830973,
+      "song_name": "关于你",
+      "singers": "汪苏泷",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795801976,
+      "song_name": "当我想起你",
+      "singers": "张志明;余春娇",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795789161,
+      "song_name": "Despacito (Remix)",
+      "singers": "Luis Fonsi;Daddy Yankee;Justin Bieber",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795801591,
+      "song_name": "팔레트",
+      "singers": "G-Dragon;IU",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795847210,
+      "song_name": "Ka-CHING!",
+      "singers": "EXO-CBX",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 1
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795898749,
+      "song_name": "Love Shouldn't Be So Hard (Extended Mix)",
+      "singers": "Carta;Robert Falcon",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 1
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795763177,
+      "song_name": "任你依靠 (Take You Home)",
+      "singers": "伯贤",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795899579,
+      "song_name": "船",
+      "singers": "林宥嘉",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795811195,
+      "song_name": "祈愿",
+      "singers": "张艺兴",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795858870,
+      "song_name": "You Are Beautiful",
+      "singers": "刘沁",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795803929,
+      "song_name": "思美人兮",
+      "singers": "金玟岐",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795798350,
+      "song_name": "春风十里不如你",
+      "singers": "李健",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795909976,
+      "song_name": "凉凉",
+      "singers": "杨宗纬;张碧晨",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 1
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 1
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795540323,
+      "song_name": "脱胎换骨",
+      "singers": "谭咏麟;五月天",
+      "need_pay_flag": 2,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 4
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 4
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 4
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 4
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 4
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795908298,
+      "song_name": "WeChat",
+      "singers": "Higher Brothers;Keith Ape",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    },
+    {
+      "song_id": 1795918243,
+      "song_name": "遇到爱",
+      "singers": "刘涛",
+      "need_pay_flag": 0,
+      "purview_roles": [
+        {
+          "quality": "e",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "f",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "l",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "h",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 0
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 0
+            }
+          ]
+        },
+        {
+          "quality": "s",
+          "operation_list": [
+            {
+              "purpose": 1,
+              "upgrade_role": 3
+            },
+            {
+              "purpose": 2,
+              "upgrade_role": 3
+            }
+          ]
+        }
+      ],
+      "play_counts": 0
+    }
+  ]
+}
